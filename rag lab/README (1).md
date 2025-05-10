@@ -13,7 +13,7 @@
 
 ### 1. Clone or download this repository:
 ```bash
-git clone https://github.com/your-username/rag-assignment.git
+git clone https://github.com/kitobito/raglab.git
 cd rag-assignment
 ```
 
@@ -145,9 +145,4 @@ rag-assignment/
 
 ---
 
-## 📎 References
 
-- [LangChain Docs](https://python.langchain.com/)
-- [FAISS GitHub](https://github.com/facebookresearch/faiss)
-- [Sentence Transformers](https://www.sbert.net/)
-- [OpenAI API](https://platform.openai.com/)
